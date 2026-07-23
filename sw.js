@@ -7,6 +7,8 @@ const urlsToCache = [
   '/scene.js',
   '/vanilla-tilt_min.js',
   '/manifest.json',
+  '/icons/android-icon-192x192.png',
+  '/icons/android-icon-512x512.png',
   '/profile-pic-1.png',
   '/scroll-down.gif',
   '/skill1.jpg',
